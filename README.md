@@ -96,3 +96,12 @@ You can tweak `src/config.py` for:
 I'm Prashant, an AI/ML engineer who loves building practical tools that make AI more useful and user-friendly. This project was born out of a real need — I was tired of AI text sounding lifeless and obvious.
 
 If this tool helps you or if you have ideas to improve it, I'd love to hear from you!
+
+## 📄 License
+
+This project is **not open source**.  
+All content in this repository is © 2025 Prashant Singh. All rights reserved.
+
+You're free to explore the code, but reuse or redistribution is **not allowed** without my written permission.
+
+Feel free to reach out if you'd like to collaborate or license the project.
