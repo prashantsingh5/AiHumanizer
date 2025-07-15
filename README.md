@@ -60,7 +60,7 @@ python app.py
 
 You'll get an interactive interface where you can paste your AI content and tweak how human you want it to sound.
 
-## Sample Output
+## 🔍 Sample Output
 <img width="1715" height="1072" alt="image" src="https://github.com/user-attachments/assets/64adbe43-ce95-4ebc-8ea6-365c05278f57" />
 
 
